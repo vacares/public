@@ -34,3 +34,4 @@
 \bGPTBot\b
 \bDuckDuckBot\b
 \bQwantbot-prod448724\b
+\bTimpibot\b
