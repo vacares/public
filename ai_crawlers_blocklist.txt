@@ -32,6 +32,5 @@
 \bSeekportBot\b
 \bDataForSeoBot\b
 \bGPTBot\b
-\bDuckDuckBot\b
 \bQwantbot-prod448724\b
 \bTimpibot\b
